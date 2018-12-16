@@ -37,7 +37,7 @@ N/A
 
 ## Deployment
 
-Please see https://zahram1087.github.io/Sandman/ for reference.
+Please see https://nguyenvinh2.github.io/Sandman/ for reference.
 
 GitHub is recommended to deploy personal copy of this project.
 
