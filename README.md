@@ -50,10 +50,6 @@ Atom
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-For the versions available, please see https://github.com/zahram1087/Sandman.
-
 ## Authors
 
 Vinh Nguyen: https://github.com/nguyenvinh2/
